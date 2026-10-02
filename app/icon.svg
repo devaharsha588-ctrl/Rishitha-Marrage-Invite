@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="8" fill="#2A0C11"/>
+  <g transform="translate(16,16)" fill="#C89B3C" stroke="#C89B3C">
+    <!-- Sacred diamond motif -->
+    <polygon points="0,-7 5,0 0,7 -5,0" stroke-width="0.8" fill="none" opacity="0.9"/>
+    <polygon points="0,-3.5 2.5,0 0,3.5 -2.5,0" fill="#C89B3C" opacity="0.85"/>
+    <!-- Four cardinal dots -->
+    <circle cx="0" cy="-10" r="1.1" fill="#E4C979"/>
+    <circle cx="10" cy="0" r="1.1" fill="#E4C979"/>
+    <circle cx="0" cy="10" r="1.1" fill="#E4C979"/>
+    <circle cx="-10" cy="0" r="1.1" fill="#E4C979"/>
+  </g>
+</svg>

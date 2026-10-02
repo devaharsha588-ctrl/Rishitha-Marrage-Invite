@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 80" fill="none">
+  <!-- Traditional South Indian brass deepam / oil lamp silhouette -->
+  <g stroke="currentColor" fill="currentColor" transform="translate(30,0)">
+    <!-- Flame -->
+    <path d="M0,8 C-3,5 -4,2 0,-2 C4,2 3,5 0,8Z" opacity="0.7"/>
+    <path d="M0,6 C-1.5,4 -2,2 0,0 C2,2 1.5,4 0,6Z" opacity="0.4"/>
+    <!-- Flame glow -->
+    <circle cy="5" r="5" opacity="0.08"/>
+    <!-- Oil cup -->
+    <path d="M-8,12 Q-9,8 -5,8 L5,8 Q9,8 8,12 L6,18 Q5,20 0,20 Q-5,20 -6,18 Z" 
+          stroke-width="0.8" opacity="0.6" fill="none"/>
+    <ellipse cy="10" rx="6" ry="1.5" opacity="0.15"/>
+    <!-- Stem -->
+    <path d="M-2,20 L-2,50 Q-2,52 -4,52 L4,52 Q2,52 2,50 L2,20" 
+          stroke-width="0.7" opacity="0.5" fill="none"/>
+    <!-- Decorative ring on stem -->
+    <ellipse cy="32" rx="3.5" ry="1.2" stroke-width="0.5" opacity="0.3" fill="none"/>
+    <ellipse cy="36" rx="3" ry="1" stroke-width="0.4" opacity="0.2" fill="none"/>
+    <!-- Base -->
+    <path d="M-12,58 Q-14,52 -6,52 L6,52 Q14,52 12,58 L10,62 Q8,66 0,66 Q-8,66 -10,62 Z" 
+          stroke-width="0.8" opacity="0.5" fill="none"/>
+    <!-- Base ring -->
+    <ellipse cy="66" rx="8" ry="2" stroke-width="0.6" opacity="0.3" fill="none"/>
+    <!-- Foot -->
+    <path d="M-10,68 Q-12,72 -14,74 L14,74 Q12,72 10,68" 
+          stroke-width="0.6" opacity="0.4" fill="none"/>
+    <line x1="-14" y1="74" x2="14" y2="74" stroke-width="0.8" opacity="0.5"/>
+  </g>
+</svg>

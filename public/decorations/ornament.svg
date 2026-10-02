@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <!-- Compact ornament — tilaka/kolam-inspired accent mark -->
+  <g transform="translate(20,20)" stroke="currentColor" fill="currentColor">
+    <!-- Central diamond -->
+    <polygon points="0,-8 5,0 0,8 -5,0" stroke-width="0.6" opacity="0.5" fill="none"/>
+    <!-- Inner diamond -->
+    <polygon points="0,-4 2.5,0 0,4 -2.5,0" opacity="0.35"/>
+    <!-- Four extending dots -->
+    <circle cx="0" cy="-12" r="1.2" opacity="0.4"/>
+    <circle cx="12" cy="0" r="1.2" opacity="0.4"/>
+    <circle cx="0" cy="12" r="1.2" opacity="0.4"/>
+    <circle cx="-12" cy="0" r="1.2" opacity="0.4"/>
+    <!-- Connecting lines -->
+    <line x1="0" y1="-8" x2="0" y2="-11" stroke-width="0.5" opacity="0.3"/>
+    <line x1="5" y1="0" x2="11" y2="0" stroke-width="0.5" opacity="0.3"/>
+    <line x1="0" y1="8" x2="0" y2="11" stroke-width="0.5" opacity="0.3"/>
+    <line x1="-5" y1="0" x2="-11" y2="0" stroke-width="0.5" opacity="0.3"/>
+    <!-- Diagonal accents -->
+    <circle cx="8" cy="-8" r="0.8" opacity="0.25"/>
+    <circle cx="8" cy="8" r="0.8" opacity="0.25"/>
+    <circle cx="-8" cy="8" r="0.8" opacity="0.25"/>
+    <circle cx="-8" cy="-8" r="0.8" opacity="0.25"/>
+  </g>
+</svg>

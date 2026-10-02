@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" fill="none">
+  <!-- South Indian temple arch border — repeating scalloped arch with pillar motif -->
+  <g stroke="currentColor" stroke-width="0.8" fill="none">
+    <!-- Base line -->
+    <line x1="0" y1="38" x2="200" y2="38" opacity="0.4"/>
+    <!-- Arch 1 -->
+    <path d="M5 38 L5 18 Q5 8 15 8 L35 8 Q45 8 45 18 L45 38" />
+    <circle cx="25" cy="15" r="3" opacity="0.5"/>
+    <line x1="25" y1="8" x2="25" y2="4" stroke-width="0.6"/>
+    <circle cx="25" cy="3" r="1.5" fill="currentColor" opacity="0.3"/>
+    <!-- Arch 2 -->
+    <path d="M55 38 L55 18 Q55 8 65 8 L85 8 Q95 8 95 18 L95 38" />
+    <circle cx="75" cy="15" r="3" opacity="0.5"/>
+    <line x1="75" y1="8" x2="75" y2="4" stroke-width="0.6"/>
+    <circle cx="75" cy="3" r="1.5" fill="currentColor" opacity="0.3"/>
+    <!-- Arch 3 -->
+    <path d="M105 38 L105 18 Q105 8 115 8 L135 8 Q145 8 145 18 L145 38" />
+    <circle cx="125" cy="15" r="3" opacity="0.5"/>
+    <line x1="125" y1="8" x2="125" y2="4" stroke-width="0.6"/>
+    <circle cx="125" cy="3" r="1.5" fill="currentColor" opacity="0.3"/>
+    <!-- Arch 4 -->
+    <path d="M155 38 L155 18 Q155 8 165 8 L185 8 Q195 8 195 18 L195 38" />
+    <circle cx="175" cy="15" r="3" opacity="0.5"/>
+    <line x1="175" y1="8" x2="175" y2="4" stroke-width="0.6"/>
+    <circle cx="175" cy="3" r="1.5" fill="currentColor" opacity="0.3"/>
+    <!-- Pillar capitals -->
+    <rect x="3" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+    <rect x="43" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+    <rect x="53" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+    <rect x="93" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+    <rect x="103" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+    <rect x="143" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+    <rect x="153" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+    <rect x="193" y="36" width="4" height="2" rx="0.5" fill="currentColor" opacity="0.2"/>
+  </g>
+</svg>

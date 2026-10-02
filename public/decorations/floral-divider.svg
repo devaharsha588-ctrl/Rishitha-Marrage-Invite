@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 24" fill="none">
+  <!-- Delicate floral vine divider — organic temple stone carving style -->
+  <g stroke="currentColor" fill="currentColor" opacity="0.45">
+    <!-- Main vine line -->
+    <path d="M30,12 Q80,6 120,12 Q160,18 200,12 Q240,6 280,12 Q320,18 370,12" 
+          stroke-width="0.6" fill="none"/>
+    <!-- Left leaf cluster -->
+    <path d="M60,10 Q55,5 60,2 Q65,5 60,10Z" opacity="0.6"/>
+    <path d="M70,14 Q65,19 70,22 Q75,19 70,14Z" opacity="0.6"/>
+    <path d="M50,13 Q44,11 42,14 Q46,14 50,13Z" opacity="0.5"/>
+    <!-- Left-center leaves -->
+    <path d="M130,13 Q125,8 130,5 Q135,8 130,13Z" opacity="0.6"/>
+    <path d="M150,10 Q155,5 160,8 Q155,10 150,10Z" opacity="0.5"/>
+    <!-- Center flower -->
+    <circle cx="200" cy="12" r="3" opacity="0.5"/>
+    <circle cx="200" cy="12" r="1.5" opacity="0.3"/>
+    <path d="M200,5 C202,7 202,9 200,9 C198,9 198,7 200,5Z" opacity="0.4"/>
+    <path d="M200,19 C202,17 202,15 200,15 C198,15 198,17 200,19Z" opacity="0.4"/>
+    <path d="M193,12 C195,10 197,10 197,12 C197,14 195,14 193,12Z" opacity="0.4"/>
+    <path d="M207,12 C205,10 203,10 203,12 C203,14 205,14 207,12Z" opacity="0.4"/>
+    <!-- Right-center leaves -->
+    <path d="M250,10 Q245,5 250,2 Q255,5 250,10Z" opacity="0.5"/>
+    <path d="M270,13 Q275,8 270,5 Q265,8 270,13Z" opacity="0.6"/>
+    <!-- Right leaf cluster -->
+    <path d="M330,14 Q325,19 330,22 Q335,19 330,14Z" opacity="0.6"/>
+    <path d="M340,10 Q335,5 340,2 Q345,5 340,10Z" opacity="0.6"/>
+    <path d="M350,13 Q356,11 358,14 Q354,14 350,13Z" opacity="0.5"/>
+    <!-- End caps -->
+    <circle cx="28" cy="12" r="1.5" opacity="0.4"/>
+    <circle cx="372" cy="12" r="1.5" opacity="0.4"/>
+  </g>
+</svg>

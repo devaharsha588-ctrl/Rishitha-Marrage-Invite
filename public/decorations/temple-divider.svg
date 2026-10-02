@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 30" fill="none">
+  <!-- Ornamental divider with gopuram-inspired center -->
+  <g stroke="currentColor" fill="currentColor">
+    <!-- Left decorative line -->
+    <line x1="20" y1="15" x2="155" y2="15" stroke-width="0.5" opacity="0.3"/>
+    <line x1="60" y1="13" x2="155" y2="13" stroke-width="0.3" opacity="0.15"/>
+    <line x1="60" y1="17" x2="155" y2="17" stroke-width="0.3" opacity="0.15"/>
+    <!-- Left end diamond -->
+    <polygon points="20,15 24,12 28,15 24,18" opacity="0.4"/>
+    <!-- Center gopuram motif -->
+    <path d="M175 22 L175 10 Q175 5 180 4 L190 2 Q200 0.5 210 2 L220 4 Q225 5 225 10 L225 22" 
+          stroke-width="0.7" fill="none" opacity="0.6"/>
+    <path d="M182 22 L182 12 Q182 8 188 7 L200 5 L212 7 Q218 8 218 12 L218 22" 
+          stroke-width="0.5" fill="none" opacity="0.4"/>
+    <!-- Kalasam (finial) -->
+    <ellipse cx="200" cy="2" rx="3" ry="1.5" opacity="0.5"/>
+    <line x1="200" y1="0.5" x2="200" y2="-1" stroke-width="0.6" opacity="0.4"/>
+    <!-- Center dot -->
+    <circle cx="200" cy="14" r="2" opacity="0.35"/>
+    <!-- Right decorative line -->
+    <line x1="245" y1="15" x2="380" y2="15" stroke-width="0.5" opacity="0.3"/>
+    <line x1="245" y1="13" x2="340" y2="13" stroke-width="0.3" opacity="0.15"/>
+    <line x1="245" y1="17" x2="340" y2="17" stroke-width="0.3" opacity="0.15"/>
+    <!-- Right end diamond -->
+    <polygon points="380,15 376,12 372,15 376,18" opacity="0.4"/>
+    <!-- Base line -->
+    <line x1="170" y1="24" x2="230" y2="24" stroke-width="0.4" opacity="0.2"/>
+  </g>
+</svg>

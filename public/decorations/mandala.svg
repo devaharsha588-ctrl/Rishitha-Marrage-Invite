@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Geometric mandala — radial symmetry for watermark/background use -->
+  <g transform="translate(60,60)" stroke="currentColor" fill="currentColor">
+    <!-- Outer ring -->
+    <circle r="55" stroke-width="0.5" opacity="0.15" fill="none"/>
+    <circle r="52" stroke-width="0.3" opacity="0.1" fill="none"/>
+    <!-- Outer scallop (16 arcs) -->
+    <g opacity="0.12">
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(22.5)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(45)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(67.5)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(90)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(112.5)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(135)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(157.5)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(180)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(202.5)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(225)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(247.5)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(270)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(292.5)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(315)"/>
+      <path d="M0,-55 Q8,-48 0,-42 Q-8,-48 0,-55Z" transform="rotate(337.5)"/>
+    </g>
+    <!-- Middle ring -->
+    <circle r="38" stroke-width="0.4" opacity="0.15" fill="none"/>
+    <!-- Middle pattern (8 pointed star) -->
+    <g opacity="0.18" stroke-width="0.5" fill="none">
+      <polygon points="0,-36 7,-14 28,-14 11,2 17,24 0,12 -17,24 -11,2 -28,-14 -7,-14" />
+    </g>
+    <!-- Inner ring -->
+    <circle r="22" stroke-width="0.5" opacity="0.2" fill="none"/>
+    <!-- Inner lotus (8 petals) -->
+    <g opacity="0.2">
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z"/>
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z" transform="rotate(45)"/>
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z" transform="rotate(90)"/>
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z" transform="rotate(135)"/>
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z" transform="rotate(180)"/>
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z" transform="rotate(225)"/>
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z" transform="rotate(270)"/>
+      <path d="M0,-20 C3,-15 3,-10 0,-5 C-3,-10 -3,-15 0,-20Z" transform="rotate(315)"/>
+    </g>
+    <!-- Center -->
+    <circle r="5" opacity="0.25"/>
+    <circle r="8" stroke-width="0.4" opacity="0.15" fill="none"/>
+  </g>
+</svg>
