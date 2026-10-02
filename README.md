@@ -21,13 +21,6 @@ The website is designed as a cinematic visual journey rather than a traditional 
 | December 12, 2026 | Pelli Kuthuru / Bride-to-Be Celebration |
 | December 13, 2026 | Wedding Ceremony |
 
-**Location:** Penugonda, Andhra Pradesh
-
-**Google Maps:**  
-https://maps.app.goo.gl/cmvf2Tt6nAr7tj2T7
-
-**WhatsApp:**  
-+91 7995120344
 
 ---
 
